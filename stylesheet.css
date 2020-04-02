@@ -1,0 +1,16 @@
+
+.hello{text-align: center;}
+.left{border: 3px; flex-wrap: wrap; display: flex; float: 25% right;  background-color: gray; padding: 20px; margin: 10px; width: 17%; height: 1500px;border: 10px solid #DAA520; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); position: relative;}
+.center{border: 3px; background-color: rgb(169, 169, 169); float: right; padding: 50px; margin: 15px; width: 67%;border: 10px solid #DAA520; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.control{flex-wrap: wrap; background-color: black; display: inline; font-family: cursive}
+.Raptor{width: 250px; height: 250px; border: 10px solid #87CEFA; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 45px;}
+input{width: 100px; hight: 60px}
+.room{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border: 10px solid rgb(169, 169, 169); border-radius: 8px;}
+.M1Amrbs{width: 250px; height: 250px; border: 10px solid #87CEFA; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 45px;}
+.AH-64{width: 250px; height: 250px; border: 10px solid #87CEFA; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 45px;}
+.Transport{width: 250px; height: 250px; border: 10px solid #87CEFA; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); margin: 45px;}
+.my-hamada{text-align: center; padding: 25px; font-size: 30px; background-color: rgb(169, 169, 169);}
+body{background-image: url(joystick.jpg); background-repeat: repeat; position: relative; background-attachment: fixed;}
+.bg-2{background-color: #87CEFA; width: 100%;border: 10px solid #DAA520; border-radius: 8px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+.hr{border: 15px dotted brown; border-radius: 35px; width: 35%;}
+button{background-color: black; border: 2px solid #87CEFA; color: white;padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 35px;}
